@@ -17,4 +17,6 @@ There are many use cases where we don’t want to refresh the entire website for
 
 At present time the users are used to fancy websites and easy to use applications. They expect to have SPA that quickly react to their interactions. A user nowadays doesn’t feel like waiting too long for a website to load or reload. Thus, it’s up to us as developers to keep up with the latest technologies and provide the best user experience.
 
-It’s worth noting that Vue has a shallow learning curve as it is very easy to learn. The syntax is simple and easy to understand. There are many examples for using Vue.js like creating a modal component, dynamic table grid, todo list, etc.
+It’s worth noting that Vue has a shallow learning curve as it is very easy to learn. The syntax is simple and easy to understand. There are many examples for using Vue.js like creating a modal component, dynamic table grid, todo list, etc.\
+\
+AND IS AWASOMEEE!
