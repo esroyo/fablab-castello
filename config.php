@@ -2,8 +2,8 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://www.luckymedia.dev',
-    'siteName' => 'Lucky Media',
+    'baseUrl' => 'https://fablab-castello.netlify.app',
+    'siteName' => 'Fablab',
     'siteDescription' => 'The art of beautiful design and professional digital experience.',
     'homepage' => [
         'menu' => [
